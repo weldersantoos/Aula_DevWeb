@@ -1,0 +1,15 @@
+.verde
+{
+	color: green;
+	text-align: center;
+}
+
+#id_1
+{
+	font-weight: inherit;
+}
+
+#id_2
+{
+	font-weight: bold;
+}
